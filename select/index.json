@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "melt with you",
+  "base_artist": "Yvnlazy",
+  "createdAt": "2026-03-08T05:55:19.713537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Melt with You",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/01_I_Melt_with_You_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Melt with You (7\" Mix)",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/02_I_Melt_with_You_(7__Mix)_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Nouvelle Vague",
+      "has_synced": false,
+      "path": "select/03_I_Melt_With_You_Nouvelle_Vague.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Melt With You (7″ mix)",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/04_I_Melt_With_You_(7′′_mix)_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Melt With You",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/05_Melt_With_You_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Melt with You",
+      "artist": "Natalie Imbruglia",
+      "has_synced": false,
+      "path": "select/06_I_Melt_with_You_Natalie_Imbruglia.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Mest",
+      "has_synced": true,
+      "path": "select/07_I_Melt_With_You_Mest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/08_I_Melt_With_You_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/09_I_Melt_With_You_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Melt with You",
+      "artist": "Nouvelle Vague Silja",
+      "has_synced": true,
+      "path": "select/10_I_Melt_with_You_Nouvelle_Vague_Silja.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/11_I_Melt_With_You_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Melt With You (Rock the Radio mix)",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/12_I_Melt_With_You_(Rock_the_Radio_mix)_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Sugarcult",
+      "has_synced": false,
+      "path": "select/13_I_Melt_With_You_Sugarcult.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Melt with You",
+      "artist": "Richard Cheese",
+      "has_synced": false,
+      "path": "select/14_I_Melt_with_You_Richard_Cheese.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Melt with You (Re-Recorded)",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/15_I_Melt_with_You_(Re-Recorded)_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Melt With You (Rerecorded)",
+      "artist": "Modern English",
+      "has_synced": true,
+      "path": "select/16_I_Melt_With_You_(Rerecorded)_Modern_English.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Melt With You",
+      "artist": "Jason Mraz",
+      "has_synced": false,
+      "path": "select/17_I_Melt_With_You_Jason_Mraz.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Wanna Melt With U",
+      "artist": "Prince & The New Power Generation",
+      "has_synced": true,
+      "path": "select/18_I_Wanna_Melt_With_U_Prince_&_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Wanna Melt With U",
+      "artist": "Prince and The New Power Generation",
+      "has_synced": true,
+      "path": "select/19_I_Wanna_Melt_With_U_Prince_and_The_New_Power_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "melt with you",
+      "artist": "Yvnlazy, Ccn",
+      "has_synced": false,
+      "path": "select/pl_01_melt_with_you_Yvnlazy,_Ccn.txt"
+    }
+  ]
+}
